@@ -1,3 +1,3 @@
-This is a fun assignment I did for my class in Modern Applied Statistics for my Graduate Diploma. We were given a set results from an experiment in prosocial behaviour in seven monkeys, and asked to produce a statistical report based on the answers.
+This is a fun assignment I did for my class in Modern Applied Statistics for my Graduate Diploma. We were given a set of results from an experiment in prosocial behaviour in seven monkeys, and asked to produce a statistical report based on the answers.
 
 The experiment aimed to measure whether chimpanzees behaved in a prosocial way, like human beings. The chimpanzees were placed in an enclosure in an apparatus with two levers: one which would deliver them food if pulled, and one which would deliver food both to them and another enclosure. The experiment measured whether the monkeys pulled the latter more often if another chimpanzee was in the other enclosure.
